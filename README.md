@@ -14,13 +14,7 @@
 
 Для побдора UTF сиволов использовался сайт https://unicode-table.com/ru/ проекта ![unicode-table-data](https://github.com/unicode-table/unicode-table-data)
 
-Не подобраны замены для символов с кодами:
-* 48
-* 50
-* 5F
-* 85
-* 88 
-
+Проект был создан для работы над файлами книги ![Пособие по программированию на MSX BASIC](https://github.com/mr-GreyWolf/MSX-BASIC-Programming-Guide-Russian)
 
 **msx_russian-utf8.sh** скрипт для преобразовагия файлов
 
@@ -47,5 +41,12 @@
 `file_ext_tmp='.tmp' `	расширение временного файла
 
 `temp_path='/tmp'	` путь для временных файлов
+
+Не подобраны замены для символов с кодами:
+* 48
+* 50
+* 5F
+* 85
+* 88 
 
                                                         
