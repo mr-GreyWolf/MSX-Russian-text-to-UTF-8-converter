@@ -195,6 +195,8 @@ while data_in:
     elif prefix == 1 and  code_dec<128 :
 	data_out=data_out + binascii.unhexlify(hex_to_utf('01'+code_hex))
 	prefix=0
+    elif code_dec == 26 :
+	pass # A1 EOF (Конец файла)
     elif code_dec < 128 :
 	data_out = data_out + code_bin
     elif code_dec >= 128 :
