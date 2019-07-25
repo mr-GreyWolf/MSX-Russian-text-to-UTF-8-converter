@@ -8,3 +8,6 @@
 - **openMSX_orig.bin** для openMSX в стандарте ЯВЕРТЫ
 - **openMSX.bin**      для openMSX в стандарте ЙЦУКЕН
 - **WebMSX.bin**       для openMSX в стандарте ЙЦУКЕН
+
+Для работы с этими файлами удобно использовать [эти](https://github.com/mr-GreyWolf/MSX-Russian-text-to-UTF-8-converter/tree/master/tools) скрипты.
+
