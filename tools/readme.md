@@ -10,7 +10,7 @@
 1. Длина
 
 Пример:
-`./fragment-from-binary-file.py file.bin fragment.bin DA5 288
+`./fragment-from-binary-file.py file.bin fragment.bin DA5 288`
 
 ### fragment-to-binary-file.py
 Запись фрагмента в файл, исходный файл открывается только на чтение, скрипт создаёт новый файл добавляя к имени исходного суффикс _new
@@ -22,4 +22,4 @@
 1. Длина
 
 Пример:
-`./fragment-to-binary-file.py file.bin fragment.bin  DA5 288
+`./fragment-to-binary-file.py file.bin fragment.bin  DA5 288`
