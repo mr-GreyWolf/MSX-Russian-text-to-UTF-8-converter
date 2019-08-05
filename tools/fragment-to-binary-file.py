@@ -14,7 +14,7 @@ if __name__ == '__main__':
 	sys.exit (1)
 
 new_file_prefix = '_new'
-offset = int(offset, base = 16)
+offset = int(offset, base = 16)-1
 i=0
 data_out_new = ''
 file_in = open(file_i, 'rb')
