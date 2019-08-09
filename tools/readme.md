@@ -44,6 +44,8 @@
    … | … | … | … | … | … | … |
 0x57 |2E | | | | |  | 
 
+Примеры таблиц ![здесь](https://github.com/mr-GreyWolf/MSX-Russian-text-to-UTF-8-converter/tree/master/keyboard)
+
 Параметры:
 1. Исходный файл
 1. Файл для сохранения таблицы
